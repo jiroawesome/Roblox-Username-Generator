@@ -12,6 +12,6 @@ Use [Replit](https://replit.com)
 ```py
 git clone https://github.com/jiroawesome/Roblox-Username-Generator
 cd Roblox-Username-Generator
-pip install requests json
+pip install requests json tasks discord_webhook
 python main.py
 ```
